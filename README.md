@@ -22,4 +22,4 @@
 
 ## Link
 
-[Click here to use the app!](https://daisyle0203.github.io/work-day-scheduler/)
+[Click here to use the app!](https://daisyle0203.github.io/Work_Day_Scheduler/)
